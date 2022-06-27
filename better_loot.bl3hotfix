@@ -329,9 +329,9 @@ SparkCharacterLoadedEntry,(1,2,0,BPChar_OnePunch),/Game/GameData/Loot/ItemPools/
 SparkCharacterLoadedEntry,(1,2,0,BPChar_OnePunch),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,OnePunch,LegendaryDropChance_Mayhem_49_A4643C45437ECBC97BC6629ECC66F6B6,0,,1
 
 # Phoenix
-SparkCharacterLoadedEntry,(1,2,0,BPChar_Rakk_Hunt01),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Phoenix,LegendaryDropChance_Playthrough1_48_4189D9DA42C2B912FC25209E8C353A26,0,,1
-SparkCharacterLoadedEntry,(1,2,0,BPChar_Rakk_Hunt01),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Phoenix,LegendaryDropChance_Playthrough2_50_11E6C8E8493E0A73AF9B35891E7CE111,0,,1
-SparkCharacterLoadedEntry,(1,2,0,BPChar_Rakk_Hunt01),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Phoenix,LegendaryDropChance_Mayhem_49_A4643C45437ECBC97BC6629ECC66F6B6,0,,1
+SparkCharacterLoadedEntry,(1,2,0,BPChar_Rakk_Hunt01),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Phoenix,LegendaryDropChance_Playthrough1_48_4189D9DA42C2B912FC25209E8C353A26,0,,4
+SparkCharacterLoadedEntry,(1,2,0,BPChar_Rakk_Hunt01),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Phoenix,LegendaryDropChance_Playthrough2_50_11E6C8E8493E0A73AF9B35891E7CE111,0,,4
+SparkCharacterLoadedEntry,(1,2,0,BPChar_Rakk_Hunt01),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Phoenix,LegendaryDropChance_Mayhem_49_A4643C45437ECBC97BC6629ECC66F6B6,0,,0.1
 
 # Princess Tarantella II
 SparkCharacterLoadedEntry,(1,2,0,BPChar_SpiderantTarantella),/Game/GameData/Loot/ItemPools/Table_LegendarySpecificLootOdds.Table_LegendarySpecificLootOdds,Tarantella,LegendaryDropChance_Playthrough1_48_4189D9DA42C2B912FC25209E8C353A26,0,,1
